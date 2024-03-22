@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PokeApiRest</string>
+    <string name="list_of_okemons">Lista de pokemons</string>
+    <string name="pokemon_name">Nombre del Pokemon</string>
+    <string name="weight">Peso</string>
+    <string name="height">Altura</string>
+    <string name="type_of_pokemon">Tipo de pokemon</string>
+    <string name="skills">Habilidades</string>
+    <string name="movements">Movimientos</string>
+
+
+
+</resources>
